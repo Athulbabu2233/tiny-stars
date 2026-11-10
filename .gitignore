@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Vercel CLI
+.vercel/
+deploy.log
+
+# Local logs / scratch files
+*.log
+node_modules/
